@@ -40,6 +40,7 @@ nano .env
 ```
 ```nano
 SECRET_KEY=<секретный ключ проекта Django>
+DEBUG=False
 ```
 
 Установить зависимости из файла requirements.txt:
